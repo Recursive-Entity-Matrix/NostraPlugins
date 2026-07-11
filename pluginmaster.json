@@ -64,7 +64,7 @@
     "AssemblyVersion": "1.0.6.7",
     "DownloadLinkUpdate": "https://github.com/Recursive-Entity-Matrix/SupermarketSweep/releases/download/1.0.6.7/SupermarketSweep.zip",
     "Changelog": "## What's Changed\r\n* Upgrade to Dalamud API Level 15 and update project references by @NostraThomas99 in https://github.com/NostraThomas99/SupermarketSweep/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/NostraThomas99/SupermarketSweep/compare/1.0.2.0...1.0.6.7",
-    "DownloadCount": 2486
+    "DownloadCount": 2487
   },
   {
     "Author": "NostraThomas",
