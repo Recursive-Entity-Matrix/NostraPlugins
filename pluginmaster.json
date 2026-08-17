@@ -83,10 +83,6 @@
     "IconUrl": "https://raw.githubusercontent.com/NostraThomas99/BuyHelper/master/logo.png",
     "Punchline": "It ain't no lie, baby: buy, buy, buy...",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Recursive-Entity-Matrix/BuyHelper/releases/download/1.0.0.0/BuyHelper.zip",
-    "AssemblyVersion": "1.0.0.0",
-    "DownloadLinkUpdate": "https://github.com/Recursive-Entity-Matrix/BuyHelper/releases/download/1.0.0.0/BuyHelper.zip",
-    "Changelog": "Initial Release",
-    "DownloadCount": 58
+    "DownloadCount": 0
   }
 ]
